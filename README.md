@@ -1,8 +1,8 @@
-# xx-h5-template
+# h5-vue-template
 
 #### h5 模板
 
-h5 移动端项目模板
+vue 移动端项目模板
 
 #### 技术栈
 
